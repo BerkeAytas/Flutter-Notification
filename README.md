@@ -1,6 +1,7 @@
 # notifyme
 
-A new Flutter project.
+Natification
+ios app icon at notification icon
 
 ## Getting Started
 
